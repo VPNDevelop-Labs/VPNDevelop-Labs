@@ -1,12 +1,12 @@
-<p align="center"><img src="https://github.com/VPNDeveloper-Libs.png" width="88" alt="VPN Developer Libs"></p>
+<p align="center"><img src="https://github.com/VPNDevelop-Labs.png" width="88" alt="VPN Develop Labs"></p>
 
-<h1 align="center">VPN Developer Libs</h1>
+<h1 align="center">VPN Develop Labs</h1>
 
 <p align="center">VPN software engineering · Cross-platform clients · Deployment and technical documentation</p>
 
 <p align="center"><a href="https://vpndevelop.com">VPNDevelop website</a> · <a href="https://vpndevelop.com/open-source">Open-source resources</a> · <a href="https://vpndevelop.com/blog">Technical articles</a></p>
 
-VPN Developer Libs is the GitHub development profile for VPNDevelop's engineering resources. The website continues to use the VPNDevelop brand at **[vpndevelop.com](https://vpndevelop.com)**.
+VPN Develop Labs is the GitHub development profile for VPNDevelop's engineering resources. The website continues to use the VPNDevelop brand at **[vpndevelop.com](https://vpndevelop.com)**.
 
 VPNDevelop provides VPN software development, protocol integration, white-label delivery and deployment services. Project scope, supported platforms, source-code rights and maintenance are defined for each engagement.
 
@@ -18,7 +18,7 @@ VPNDevelop provides VPN software development, protocol integration, white-label 
 
 ### Public development guide
 
-[Current maintained guide](https://github.com/VPNDeveloper-Libs/vpn-development-guide) · [Original upstream](https://github.com/VPNDevelop/vpn-development-guide) · [Original license notice](https://github.com/VPNDevelop/vpn-development-guide/blob/main/LICENSE)
+[Current maintained guide](https://github.com/VPNDevelop-Labs/vpn-development-guide) · [Original upstream](https://github.com/VPNDevelop/vpn-development-guide) · [Original license notice](https://github.com/VPNDevelop/vpn-development-guide/blob/main/LICENSE)
 
 The maintained repository is a GitHub fork of the original VPNDevelop guide. Its original commits, branches and attribution are preserved.
 
